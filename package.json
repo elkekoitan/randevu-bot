@@ -1,0 +1,18 @@
+```json
+    {
+      "name": "visa-appointment-bot",
+      "version": "1.0.0",
+      "description": "A bot to automate visa appointments",
+      "main": "visa_bot.js",
+      "type": "module",
+      "scripts": {
+        "start": "node visa_bot.js"
+      },
+      "keywords": [],
+      "author": "",
+      "license": "ISC",
+      "dependencies": {
+        "puppeteer": "^21.6.0"
+      }
+    }
+    ```
